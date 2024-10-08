@@ -1,0 +1,6 @@
+.env
+
+/docker/server/log/**
+/docker/db/log/**
+
+.idea/
